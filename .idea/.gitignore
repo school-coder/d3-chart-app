@@ -7,9 +7,9 @@
 /dataSources/
 /dataSources.local.xml
 
-node_modules
+/node_modules/
 
-.idea
+.idea/
 
 package-lock.json
 
