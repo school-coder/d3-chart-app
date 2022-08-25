@@ -1,3 +1,3 @@
-import {writeToConsole} from 'd3-chart-library';
+import { writeToConsole } from "d3-chart-library";
 
-writeToConsole();
+writeToConsole('testing..');

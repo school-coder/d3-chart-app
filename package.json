@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/school-coder/d3-chart-app#readme",
   "dependencies": {
-    "d3-chart-library": "^1.0.1"
   }
 }
